@@ -1,0 +1,67 @@
+.wrapper{
+
+	width:  70%;
+	margin: auto;
+	border: 7px solid blue;
+
+}
+
+laabel{
+	font-size: 25px;
+
+}
+
+.first_name, .last_name{
+
+	width: 100%;
+	height: 30px;
+	padding: 15px;
+	font-size: 20px;
+}
+
+.message{
+		font-size: 20px;
+		padding: 20px;
+
+
+}
+
+label{
+	font-size: 20px;
+
+
+}
+
+.first_name, .last_name, .email, .password{
+
+	width:  90%;
+	height:  30px;
+	padding:  20px;
+	font_size: 20px;
+}
+
+.message{
+
+	font-size: 20px;
+	padding:  10px;
+
+}
+
+table, th, td{
+	width:  100%;
+	border:  5px; solid blue
+ 
+}
+
+th,td{
+
+	font-size: 20px;
+	text-align: center;
+	border:  5px; solid blue
+}
+
+td:hover{
+
+	background-color: yellowgreen;
+}
+
